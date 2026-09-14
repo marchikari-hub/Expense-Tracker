@@ -1,7 +1,7 @@
 # Expense-Tracker
-Functions (Goals) : 
+Functions : 
 - Input Income/Expense ( Amount + Details )
 - Display Income/Expense
-- Display Changes ( Seperately/Joined )
+- Display Changes
 - Delete Changes
-- Display Balance ( + Chart )
+- Display Balance

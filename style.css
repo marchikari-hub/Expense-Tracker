@@ -1,0 +1,46 @@
+body {
+    background: linear-gradient(to bottom,  #0b086f, #b656f1, hsl(38, 88%, 63%));
+}
+.title-box {
+  border: 1px solid #ccc;
+  border-radius: 6px;
+  padding: 10px;
+  overflow-y: auto;
+  margin-bottom: 15px;
+  margin-left: 6vw;
+  margin-right: 6vw;
+  background: #393939;
+  text-align: center;
+  font-size: 2vw;
+  color: #fff;
+}
+.container {
+    display: flex;
+    gap: 20px;
+}
+
+.box {
+    width: 50vw;
+    height: 35vw;
+    border: 2px solid black;
+    padding: 15px;
+    background: #fafafa;
+    margin-bottom:  15px
+}
+.expense-box {
+    gap: 20px;
+    width: 50vw;
+    height: 15vw;
+    border: 2px solid black;
+    padding: 15px;
+    background: #fafafa;
+    margin-bottom:  15px
+}
+.Transaction-box {
+    gap: 20px;
+    width: 100vw;
+    height: 35vw;
+    border: 2px solid black;
+    padding: 15px;
+    background: #fafafa;
+}
