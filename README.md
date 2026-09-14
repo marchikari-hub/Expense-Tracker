@@ -4,4 +4,4 @@ Functions (Goals) :
 - Display Income/Expense
 - Display Changes ( Seperately/Joined )
 - Delete Changes
-- Display Expense ( + Chart )
+- Display Balance ( + Chart )
